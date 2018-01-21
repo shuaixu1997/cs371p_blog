@@ -12,7 +12,7 @@ I stayed warm at home and watched out for the freezing weather. Just kidding! I 
 
 ### What's in your way?
 
-A lot of pressure. Why so many posts mentioned 439? Other than this course, I'm taking CS439 and CS345 as well. I'm not insane; I just love going against general advice to see what sort of journey it would be. For me, being busy is the only way to avoid slacking off. I don't like implementing operating system at all, but I think topics like using Haskell to write a interpreter for JavaScript and taking LIVE programming test as exams should be so exciting!
+A lot of pressure. Other than this course, I'm taking CS439 and CS345 as well. (BTW Why so many posts mentioned 439?) I'm not insane; I just love going against general advice to see what sort of journey it would be. For me, being busy is the only way to avoid slacking off. I don't like implementing operating system at all, but I think topics like using Haskell to write a interpreter for JavaScript and taking LIVE programming test as exams should be so exciting!
 
 ### What will you do next week?
 
