@@ -1,4 +1,4 @@
-<img src="IMG_1340.JPG" height="25%" width="25%" />
+<img src="headshot.jpg" height="300px" width="300px" />
 
 ## WEEK-ONE
 
