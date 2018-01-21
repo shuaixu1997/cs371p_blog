@@ -8,11 +8,11 @@ Walking into the junior year, I find myself eager to take as much CS courses as 
 
 ### What did you do this past week?
 
-Stay warm at home and watch out for the freezing weather. Just kidding! I attended several lectures to grasp what's going on, finalized the schedule for this semester and planned my degree progress. That's pretty much the same as everyone else.  
+I stayed warm at home and watched out for the freezing weather. Just kidding! I attended several lectures to grasp what's going on, finalized the schedule for this semester and planned my degree progress. That's pretty much the same as everyone else.  
 
 ### What's in your way?
 
-A lot of pressure. Why so many posts mentioned 439? Other than this course, I'm taking CS439 and CS345 as well. I'm not insane; I just love going against general advice to see what sort of journey it would be. For me, being busy is the only way to avoid slacking off. I don't like implementing operating system at all, but I think topics like using Haskell to write a interperter for JavaScript and taking LIVE programming test as exams should be so exciting!
+A lot of pressure. Why so many posts mentioned 439? Other than this course, I'm taking CS439 and CS345 as well. I'm not insane; I just love going against general advice to see what sort of journey it would be. For me, being busy is the only way to avoid slacking off. I don't like implementing operating system at all, but I think topics like using Haskell to write a interpreter for JavaScript and taking LIVE programming test as exams should be so exciting!
 
 ### What will you do next week?
 
@@ -20,7 +20,7 @@ I will be working on the very first project in 439, since I just can't wait to s
 
 ### What's my experience of the class?
 
-Fantastic. Professor Downing mentioned the word "interview" a lot in class, and everytime it thrills me to switch on the work mode. Class notes are also available on github, so that we can always keep track of any materials in case it comes up. The lecture was fairly easy to follow. We went over Docker briefly, a little bit c++ basics and the usage of assertions. I used to make tests using assertion, and I was not able to judge other cases if the assertion stucks at one place. This is one of the very few experiences that I found the lecture could be so practical and close to real-life programming experience instead of theories, so I liked it a lot.  
+Fantastic. Professor Downing mentioned the word "interview" a lot in class, and every time it thrills me to switch on the work mode. Class notes are also available on github, so that we can always keep track of any materials in case it comes up. The lecture was fairly easy to follow. We went over Docker briefly, a little bit c++ basics and the usage of assertions. I used to make tests using assertion, and I was not able to judge other cases if the assertion stuck at one place. This is one of the very few experiences that I found the lecture could be so practical and close to real-life programming experience instead of theories, so I liked it a lot.  
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
