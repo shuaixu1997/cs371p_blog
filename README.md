@@ -24,5 +24,5 @@ Fantastic. Professor Downing mentioned the word "interview" a lot in class, and 
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
-I will give it to Docker. I remember once I was asked whether I have any experience of Docker in a phone interview, and that really freaks me out. I don't really know much about it, even though I ran into the term Docker a lot when googling staff. Unfortunately I got rejected in that interview, and I wish I had taken this course.
+I will give it to Docker. I remember once I was asked whether I have any experience of Docker in a phone interview, and that really freaks me out. I don't really know much about it, even though I ran into the term Docker a lot when googling stuff. Unfortunately I got rejected in that interview, and I wish I had taken this course.
 
