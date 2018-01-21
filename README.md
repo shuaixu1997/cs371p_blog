@@ -1,4 +1,4 @@
-<img src="IMG_1340.JPG" height="320px" width="320px" />
+<img src="IMG_1340.JPG" height="25%" width="25%" />
 
 ## WEEK-ONE
 
