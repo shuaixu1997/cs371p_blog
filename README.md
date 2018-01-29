@@ -22,6 +22,9 @@ The class is awesome. Again, I think I made the wise choice because the material
 
 Travis CI. At first I was confusing and tried to run g++ and everything, until I realized that travis already did that for us. However, I have no idea why Travis has to install all the libraries and tools repeatly on every build, which results in an unreasonable time to wait for the results. In general, Travis CI automates the process of deploying and testing software projects, and I would absolutely consider using this platform for massive projects in the future.
 
+
+--------------------------------------------------------------------------------------------------------------------------
+
 ## WEEK-ONE
 
 ### What are your expectations of the class? 
