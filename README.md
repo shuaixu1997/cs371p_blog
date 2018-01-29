@@ -1,5 +1,27 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-TWO
+
+### What did you do this past week?
+
+I started project Collatz and went pretty well. I got AC on the Hackerrank which took me an entire night. Piazza is super helpful! I think people started earlier put out some excellent questions I also ran into. Other than this CS371P, the mini-shell project for 439 takes a lot of time and I'm still trying to finish the signal part; For 345, the functional programming in Haskhell is challenging as well. Anyway this is a busy week, and probably it is going to be worse later this semester when exams came in.  
+
+### What's in your way?
+
+Finishing all current projects. This semester for me is particularly fast-pacing, and projects just came one after another. Besides the CS courses, I didn't realize that world literature class could also be time-consuming and I definitely need to catch up with the reading. At least the good side is that I really enjoy programming and figuring out problems, so the workload is high yet not that overwhelming. 
+
+### What will you do next week?
+
+I got an online assessment appointment next week, and I will also be attending the engineering career fair. It's the beginning of the spring semester and I'm still looking for a summer internship offer. After tons of rejections, it is hard to keep up the confidence. Am I worried too much about it? Possibly.  
+
+### What's my experience of the class?
+
+The class is awesome. Again, I think I made the wise choice because the material is practical and easy to follow. In the lectures we talked about the workflow for project Colltaz, some unit tests and coverage etc. Projects usually come in more diffcult than the lectures since we need to demonstrate our understanding, and sometimes we just have no idea what to start with. 
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+Travis CI. At first I was confusing and tried to run g++ and everything, until I realized that travis already did that for us. However, I have no idea why Travis has to install all the libraries and tools repeatly on every build, which results in an unreasonable time to wait for the results. In general, Travis CI automates the process of deploying and testing software projects, and I would absolutely consider using this platform for massive projects in the future.
+
 ## WEEK-ONE
 
 ### What are your expectations of the class? 
