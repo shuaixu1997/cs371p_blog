@@ -4,6 +4,35 @@
 
 ### What did you do this past week?
 
+I finished the project Collatz earlier this week, and spent the entire weekend hacking the mini-shell project. It always takes me forever to understand what is going on behind those signal commands, and writing a shell upon that definitely puts a lot of pressure. Other than that, I attended the engineering expo and failed an online assessment test. That's my week.
+
+### What's in your way?
+
+Project Voting just released when I began writing this blog, so I will take some time looking into that. Since we already have the experience on github/travis tools, I'm expecting a more challenging problem to work on. Meanwhile, I need to take a good rest and prepare for the upcoming phone interview next week.
+
+### What will you do next week?
+ 
+Like I said, the most important event on my calendar of next week is the phone screening. This is a solid company I want to work for, so I got super nervous. Isn't it strange that I am always worrying too much? Before receiving the email from hiring manager, I'm kind of afraid that I won't get any response so it was hard to calm down and concentrate; yet after that, I became thrilled for a while and then began to feel nervous and regret not spending a bit more time preparing in advance. 
+
+### What's my experience of the class?
+
+We did a couple of hackerrank practice, which is a lot of fun. I'm so glad that in this class we can pay attention to those subtle things like difference between pre/post increment and the usage of &/. Instead of getting in touch with some fancy libraries or powerful tools, I believe examining the very detail of a language is quite necessary before we land on a career.   
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+NoSQL. I used to have an impression that most databases require SQL commands, and the so called NO-SQL database does not make much sense to me. However, I somehow ran into the term MongoDB this week so I decided to take a look at NoSQL. Basically NoSQL is a collection of non-relational databases, and some operations may be faster than the tranditional way when we need to process massive data. One common example is the key-value database, and one simple advantage is that we don't have to design the logic between tables. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## WEEK-TWO
+
+### What did you do this past week?
+
 I started project Collatz and went pretty well. I got AC on the Hackerrank which took me an entire night. Piazza is super helpful! I think people started earlier put out some excellent questions I also ran into. Other than this CS371P, the mini-shell project for 439 takes a lot of time and I'm still trying to finish the signal part; For 345, the functional programming in Haskhell is challenging as well. Anyway this is a busy week, and probably it is going to be worse later this semester when exams came in.  
 
 ### What's in your way?
