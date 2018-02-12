@@ -1,5 +1,31 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-FOUR
+
+### What did you do this past week?
+
+I had a good start in Voting project and pulled a all-nighter to finish the Haskell interpreter assignment for 345. Later this week I spent tons of hours figuring out the Thread lab for 439, and the bug in implementing the donation still upsets us a lot. Even though the project is dued ten days away, we already spent like 20 hours on it and still have no idea how much longer it is goint to take us.
+
+### What's in your way?
+
+The Voting project, which is dued in the coming Thursday. Honestly I started quite early and managed to pass the HackerRank test, but then I completely forgot about it. The code itself is still a mess and I will definitely rearrange that and probably add more comments. I am glad that I can keep up with three CS courses so far, and the days are really flying by. 
+
+### What will you do next week?
+  
+I will keep working the Voting project and try to finish early, since I have a tough time working out the 439 Thread lab. Our group has decided to meet up basically everyday (sometimes every few hours!), which is insane. It is fun though, and it does not crash me since we have a large group of classmates suffering together while getting support from TAs all the time. 
+
+### What's my experience of the class?
+
+We went over the l/r value and const this week. Also we did a bit review on the distinction usage of \& and \*, a great memory refresh in just the right time. However I have to point out that challenging quiz: the problem itself is not difficult at all, however, the question is sort of like a word game and I did not get it at all in the first place, especially the "weakest form" part.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+GNU Screen. Screen is a full-screen window manager that multiplexes interactive shells between several processes. I don't really like to stay up late in GDC lab, so I really need a handy tool to boost my ssh experience. Screen is really easy to use; whenever I need some functionality, I can always google the command in a second. In most cases, we just press ctrl+A, followed by a single character to do the switching, detaching, etc. My favorate part is that, most of the time we don't even realize that Screen exists when using it.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
 ## WEEK-THREE
 
 ### What did you do this past week?
