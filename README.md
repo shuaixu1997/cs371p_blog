@@ -1,5 +1,31 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-FIVE
+
+### What did you do this past week?
+
+At this point in the semester, every weekend blog tends to be identical. What did I do? I can't even recall. Endless projects, homeworks and assignments. CS439 takes up a large portion of my life, and what's even worse, we are having an incoming exam and project due later next week. In comparison, the Voting project was much easier to work through. Back to the topic, I think the most exciting thing in this past week is the Chinese Spring Festival, which is as important as Chrismas in US. Great to see my family and friends are having a good time and celebrating.
+
+### What's in your way?
+
+CNS career fair is coming. I assume no one would like to stand by line, smiling, bragging and repeating for an entire afternoon; but I guess this is just one of the neccessary steps we have to follow in order to land on an internship or a full-time job. It is overwhelming to see the pile of resumes getting ridiculously high: how could we possibly stand out in that giant resume box? The career fair is not like a personal interview where we can actually demonstarte our skills, but the fact that we don't often have the opportunity for an interview makes the career fair much more important.
+
+### What will you do next week?
+
+Same as above. Career fair, exams, project due, homework and assignments. 
+
+### What's my experience of the class?
+
+We were getting into the template/typename. As we practiced through HackerRank, I gradually realized that how challenging it could be to write an elegant and accurate program even if it only has a few lines. For example, I have never paid this much attention to any simple operator like '=='. It seems like a simple equal operator to me. However, considering factors like the lvalue/rvalue and data type, I have to admit that there is so much to learn.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+Postman. It is a great API testing tool, basically a graphic version of curl or httpie. I launch it as a chrome app, findint it very handy and helpful. While the GET method can be easily tested through a url for RESTful APIs, a POST or PATCH method could contain a lot of information to handle with. Postman saves all the headers, body or even pre-request scripts and one of my favorite part is that Postman even saves all the test history we created for future reference. This saves a lot of typing and also as a chrome app it is fast and lightweight.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
 ## WEEK-FOUR
 
 ### What did you do this past week?
