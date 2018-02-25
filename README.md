@@ -4,18 +4,23 @@
 
 ### What did you do this past week?
 
+This has been quite a week for me, a mixture of exams and interviews. I did not expect to have so much interviews going on right after the career fair, and surprisingly, I finally hear back from an interview two weeks ago and got my first internship offer! Life is great. Meanwhile, I feel really exhausting pulling all-nighters for the exams. So glad I have this weekend to wrap up the mess and take a good rest.   
 
 ### What's in your way?
 
+I am little behind in school work since I did not attend a few letures this week. I will definitely catch up earlier next week before some assignment dues. Also we are having the HackerRank exam this upcoming Thursday, so I guess that would take me some time to go over all the exercise we did in class and be comfortable writing c++.
 
 ### What will you do next week?
 
+I will get back to a regular routine, pick up stuff from where I left and keep optimistic. Probably I will receive some rejections and hopefully some good news. Additionally, I need to get some medicine if my sore throat does not get better. It has been just too much work this past week and typically the inflamed throat indicates that my body is not in a good condition. Drink more water! Get more sleep!
 
 ### What's my experience of the class?
 
+Ever since we got into the Iterator and operator thing, I was confused a bit. Looking at the code itself, I don't have trouble understanding the materials. However, when it comes to the HackerRank exercise, it was sometimes confusing how to get it right. Anyway what I need is just more practice to be familiar with everything before the test, and if I need more help we always have piazza and office hours so no worries.  
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
+Doing research before going to a career fair is really important and effective. Last semester was my first time going to a career fair, and I had no idea what to expect or how to behave. When the recruiter asked something like what do I know about this company, I can not even come up with an adequate prepared answer. Learning from the mistakes, this time I check out all the companies I have interet in and carefully think of some questions that I may encounter. This helps a lot in my confidence, and as a result I am getting more interviews out of it, so I would strongly recommend doing more preparations on your target companies before such events.
 
 
 --------------------------------------------------------------------------------------------------------------------------
