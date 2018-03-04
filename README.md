@@ -1,5 +1,30 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-SEVEN
+
+### What did you do this past week?
+
+Other than the exam, I finally made the dicision on the internship this summer. Normally I am that kind of person who catches every opportunity to travel around, but this time I feel really tired and choose to stay in Austin for the summer. The exam was fine; I messed up the difference between random access/bidirection thing, but at least I got over the digit iterator questions. I assume "no code" on notes and did not realize that we are allowed to put some interfaces on it, as a result it took me quite a while to recall many details. Luckily the exam time was ample so that we can keep trying to fix all compilation errors.     
+
+### What's in your way?
+
+I have several projects due after the spring break, and I hope to work on them as early as possible in exchange for an entire awesome spring break. Nevertheless, the OS project, particularly, is crashing me and I am very doubtful on whether I am able to finish it ahead of due time. Sadly I may have to free up a large portion of the spring break to work on it.
+
+### What will you do next week?
+
+same as above.
+
+### What's my experience of the class?
+
+The review session before exam was very helpful, and the exam itself is very fair in my eyes. We have covered all the materials in lectures, and it is in our best interest to study and apply the knowledge in the exam. Right after the exam I was talking to professor Downing regarding my hesitation on internship choice, and I really appreciate his genuine advice on how to make a wise decision. It's so great to get some insights from such a nice professor! I will definitely consider stopping by his office hour more often.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+Guicorn. It might not be helpful unless you are working on deployment of python web project... Well so Gunicorn is a Python WSGI HTTP Server for UNIX and I like its simplicity and compatiblity. I used to be a uWSGI user (a similar application server); however, this time it does not really work well with my Django project. Very randomly my project would run into some weird bugs and uWSGI would restart agian, repeatly killing process and respawn. I was really frustrated and could not find out any prolem with my code. As the timeline is approaching, I was left with no choice and passively trying with Guicorn. Funny enough, all bugs disappeared after setting up Guicorn. I assume I might did something wrong with uWSGI, but honestly the uWSGI document does not have much detailed information on the error I ran into. Upon now I'm still trying to get familar with Guicorn as it does thankfully save me a lot of time on deployment! I don't even have a evidence to support that Guicorn is better than uWSGI; but personally, No more uWSGI then:P  
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
 ## WEEK-SIX
 
 ### What did you do this past week?
