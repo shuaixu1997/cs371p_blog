@@ -1,5 +1,23 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-EIGHT
+
+### What did you do this past week?
+
+### What's in your way?
+
+### What will you do next week?
+
+### What's my experience of the class?
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 ## WEEK-SEVEN
 
 ### What did you do this past week?
