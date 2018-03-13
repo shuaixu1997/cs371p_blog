@@ -4,13 +4,22 @@
 
 ### What did you do this past week?
 
+I almost forgot the blog post this week! It's the week right before spring break so what I did is clearing up everything on my schedule so that I don't have to worry about anything when I'm out of the town. Specifically, I finished the project for programming languages, a few assignments for non-cs classes and settled a plan for our group's os project. The weekend was awesome! I finally got a chance to hang out in my friend's place. Then I headed out to Fredericksburg and enchanted rock etc.
+
 ### What's in your way?
+
+This spring break is like 10 days in total... and half way through it I feel pretty satisfied already. Then I checked the piazza as I would normally do and realize that I missed this weekly blog. That's how I got here writing these words.
 
 ### What will you do next week?
 
+Work on project allocator and try to wrap up the project user program asap. I think I have some ideas how to begin and proceed in this allocator project, so I'm not too worried about it; however, the 439 project has no progress bar at all: it is just impossible to estimate how much time it would take to fix the issues and pass the remaining tests without breaking the other ones. Plus, the user program project is essential for the later virtual memory & file systems, so I guess we have to figure out everything sooner than later.
+
 ### What's my experience of the class?
 
+We were talking about this Allocator project for the entire week. This is indeed a confusing one in the first place as I did not see what is going on only by browsing the description on HackerRank. The lecture is definitely helpful and we even went through every provided files to have a clear look. Most of the work this time will be in the header file, which is really interesting in my eyes since we are finally working on a project that is so object-oriented. The casting part is pure magic and I'm expecting some related questions in the final HackerRank exam.
+
 ### What's my pick-of-the-week or tip-of-the-week?
+
 
 
 --------------------------------------------------------------------------------------------------------------------------
