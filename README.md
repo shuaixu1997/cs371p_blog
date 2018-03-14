@@ -20,6 +20,7 @@ We were talking about this Allocator project for the entire week. This is indeed
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
+GitKraken. Basically GitKraken is a Git client with graphic interface, and I highly recommend it for solving merging conflicts. Usually when I have some merge conflicts I will simply check into files and fix the issue manually; however, this process can be annoying especially when there are multiple changes and those codes were even written by different people. GitKraken provides a very clean comparison between the two files, which is very intuitive to edit and save changes. Actually other than that, GitKraken is generally a nice GUI interacting with Git. You can even modify the workflow by draging the commits etc... very elegant and efficient. If you are working on a project that uses git a lot, a GUI client like GitKraken would be a good help.
 
 
 --------------------------------------------------------------------------------------------------------------------------
