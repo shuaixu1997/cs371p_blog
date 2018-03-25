@@ -1,5 +1,32 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+
+## WEEK-NINE
+
+### What did you do this past week?
+
+Finally finished the userprog project for 439 before the deadline! However, the next virtual memory one seems really overwhelming. It's the first week back from the spring break, so definitely a lot of catch up to do. I also took the exam for programming languages and it turns out fine. The course material was obscure, yet the test itself was fairly easy and straghtforward.
+
+### What's in your way?
+
+I'm so ready to fight for the last six weeks of this semester. How time flies! I still have a decent chance to get a higher grade to boost up my average a little bit, so I guess I will work hard towards it to make my GPA looks better before I finalize my resume for the full time job hunting this fall.  
+
+### What will you do next week?
+
+Two exams coming up: government and literature. To be honest, I don't have too much interest taking these non-stem courses; nevertheless, time to get serious now. My overlook to these courses have hindered me in my overall GPA, and I should not let it happen again. Meanwhile, I will need to take a design interview w/ another design milestone due next week. Simply impossible to catch a break.
+
+### What's my experience of the class?
+
+The hackerRank test is getting significantly more challenging. Even though I did well on the midterm exam, I'm expecting the final to be much tougher.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+It is irrelevant to most of y'all, but as a english as a second language person like me find it painful to do anything in my mother language in Linux/Unix like environment. I spent a little time today installing Fcitx, which is an input method framework, to seamlessly patch a small language feature in my Ubuntu system. For starters, I need to purge the previous problematic input method; then maybe remove the dependencies, install this framework, check the default configurations and restart my session to get it to work. If any of the steps is missing, then extra effort will possibly be needed. What if I need access to some resource in another language while using the lab machines? What if I'm not a cs student and encounter a bug on the steps above? I just hope life can be easier for those not so familiar with computers.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## WEEK-EIGHT
 
 ### What did you do this past week?
