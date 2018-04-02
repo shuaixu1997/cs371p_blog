@@ -1,6 +1,31 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
 
+## WEEK-TEN
+
+### What did you do this past week?
+
+Finished two tough exams, one design interview and another design milestone. It's a quite busy week for me and I hardly have time to work on the Darwin project. The virtual memory project for OS is devastating! The reference solution is like 1500+ lines in total. My group is totally lost in the Pintos paging mechanism, and we just keep trying and trying to see if we get more understanding each time. 
+
+### What's in your way?
+
+I'm still having one exam coming up and two projects due next week, which sounds like a long way to go. Well, such tight schedule should be back to normal starting mid-April. Finals are actually fine since some classes would put it off until mid-May when we don't have other classes to worry about; except for the day of May 3, in which I will be taking two exams. Am I thinking of days too far away?
+
+### What will you do next week?
+
+First off I need to finish the projects, including the Darwin one. This OOP project should be fairly straghtforward to work with, but considering the freedom to design UML and probably many edge cases, I might need to allocate a little bit more time for that. Then it is the second OS exam; please be gentle on this one! 
+
+### What's my experience of the class?
+
+At this point I feel like we are combing all those materials we went over before. The */& operator showed up a lot more, and everything on HackerRank is class/struct-based. We need to write those operators still. And what about that overwhelming syntax && ? I promise I will spend more time practicing HackerRank tests as soon as I am done with the upcoming exam and the VM project.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+Since this is project-related, I read the article about "Getters and Setters". I can still reflect back to the time when I was taking intro CS classes; we wrote Java and these Getters and Setters were very much like a commonplace I saw every time. I never pay attention to the plausibility for that or notice this being not really object oriented. Reading this article definitely helps me understand the data abstraction and some fundamental precepts, and I hope I can apply some of them as I progress along the Darwin project. 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
 ## WEEK-NINE
 
 ### What did you do this past week?
