@@ -1,6 +1,32 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
 
+## WEEK-ELEVEN
+
+### What did you do this past week?
+
+I spent most of the time preparing for the OS exam, working on the Unify project for PL and of course the Darwin project. The VM project is due next week and our group is still struggling on many test cases. It is hard! I literally did not do anything other than exams, projects and sleep. My refrigerator has been empty for a while and this weekend I finally got some time to do the grocery shopping at least.
+
+### What's in your way?
+
+Next week is quite easy for me: the only deadline to concern is the vm project. It could be a lot but it can also be all of a sudden and everything is fixed. I suppose that I should spend much more time on the design doc questions; those are the details I missed during the implementations, and making up all the answers before due date is not a wise decision at all. 
+
+### What will you do next week?
+
+Take some good sleeps, calm down on the panic of vm project and plan ahead. 
+
+### What's my experience of the class?
+
+I feel like I am not paying enough attention to the HackerRank practice questions. We keep adding features to the my_vectors and do some reviewing everytime, but I am still lost somehow. Swap/Move itself is straghtforward, but integrating them and make clear distinctions from the other similar ones we have learned would require some effort. Overall I enjoy the class so much, and it is probably one of the best cs lecture I have ever experienced. The knowledge is put on the table and we clearly understand what to expect, and professor Downing always makes sure we are not confused by anything. Chances are I will continue taking professor Downing's sofeware engineering class next semester.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+This is my first time drawing a UML diagram. Specifically I used plantUML for this project, and it is so simple but powerful. As a CS student I very much enjoy writing pseudo code to make graphs rather than operating a graphic software: I even take notes using md format instead of Microsoft Word. I like these tools since they usually have a simple pattern to follow, with which I would be more aware of what I am doing. Also there is no need to memorize the syntax at all; I always keep the reference page in one tab of the browser, and search the keyword syntax when needed. 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## WEEK-TEN
 
 ### What did you do this past week?
