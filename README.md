@@ -1,6 +1,32 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
 
+## WEEK-TWELVE
+
+### What did you do this past week?
+
+I literally just finished the vm project three hours before the deadline (including two slip days!). It takes so much time to get everything done and we still failed one test case upon submission. Since I was constantly in lack of time for design doc, this time I started early and update the answers along the way. I almost forgot to change part of the answer that reflects our previous implementation. We have a character limit up to 25000, and that makes the txt file really cumbersome to edit. I may have spent like 50 hours on vm this week, and it still feels stressful when I wake up from a short nap...
+
+### What's in your way?
+
+So I have to pick up the Life project and make progress. This Conway part is easier than my expectation; however, I'm getting a timeout issue on the Fredkin part now. I guess it has to be some kind of common mistake I missed out since a lot of people are seemed to stuck at here. It is so frustrating that I did not find a partner for this project because I don't really have any time earlier this week; it is kind of late right now to find someone, so I may have to figure out the bug all by myself. 
+
+### What will you do next week?
+
+deadlines, deadlines...I need to work on a ten-page term paper before Wednesday and finish Life project before Thursday. Another deadline for programming languages course should be Sunday, and I haven't started yet. Intimidating. I just realize that I have even less time for filesys project, let alone those finals in two weeks. It was not this bad earlier this semester!
+
+### What's my experience of the class?
+
+On lectures we don't have time to get to the HackerRank practice recently; meanwhile, the level of difficulty is getting higher. If given a scale of 10 in terms of the difficulty for exams, I would say midterm is like 3 and the final could be 8 in my expectation. Who knows? Thankfully we won't have even more materials coming next week, so I will get some extra time nailing these deadlines.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+Keep a high level of energy by doing a little bit sports! Work efficiency is really a problem for me when taking so many CS courses. The progress on projects are not linear at all; I always made some breakthroughs when I'm full of energy, and doing a little bit sports really saves me from the computer screens and boosts the performance of my brain afterwards. However, due to the lack of sleep and random diets, I did pretty bad on the sports itself: my body is not healthy as it used to be, so a big no on competitive games anymore. Still acceptable for the purpose of relaxing my brain though.  
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
 ## WEEK-ELEVEN
 
 ### What did you do this past week?
