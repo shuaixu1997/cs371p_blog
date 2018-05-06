@@ -1,5 +1,40 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## FINAL-ENTRY
+
+### What did you like the least about the class?
+
+The lectures are too short... Need more practice questions to prepare exams. I feel like we should take quiz anything before the class and save 10 minutes for each lecture!
+
+### What did you like the most about the class?
+
+Professor Downing does a good job illustrating the concepts, and the examination on c++ is very useful. Also I like the HackerRank test even though I did not do well on it. It's a very different kind of exam that requires you to be ready coding without reference at any time. It can be hard if you are a person who heavily relies on google in the daily coding!
+
+### What's the most significant thing you learned?
+
+The features of c++. There are so many in-depth details I have never noticed even though I already took a course using c++ before. More importantly, I learned to manage my time during a coding exam. It feels so different than a regular exam and I always feel like I am one step away from passing all the test cases while fixing those compilation errors. Need to get over it!  
+
+### How many hours a week did you spend coding for this class?
+
+The projects are fair amount of work, which I believe I spent an average of 15 hours on each of them. Usually the timeline is two weeks, so please expect to spend like 8 hours per week in the project. The second half of the class requires a lot of HackerRank practice! I didn't spend much time on it and I really regret it. So I recommend to spend additional 2 hours per week to practice the HackerRank coding yourself.
+
+### How many hours a week did you spend reading for this class?
+
+Readings are mostly cs related so it does not require much effort. Sometimes I read them during lunch, and due to my schedule this semester I always have some extra time before the class so that's usually when I do the readings. I will say about 1 hour per week for maybe two/three articles.  
+
+### How many lines of code do you think you wrote?
+
+Collatz was like 150 lines? Voting maybe 250 lines. Allocator takes 150 at most, and Darwin is the one I screw up: bad design and trivial coding. Darwin 400 lines. The last project Life is about 200. That's 1150 lines in total here; obviously what I refer to is the eseential part, not including unit test, includes, empty lines etc. 
+
+### What required tool did you not know and now find very useful?
+
+Travis.ci? I was familiar with Github and Docker before taking this class but I never have experience on the test intergrating tools. I think Travis.ci is a great way to acknowledge your effort, because passing all the tests on HackerRank does not guarantee that your code is elegant. By making tests we force ourselves to write a good program, and I believe it is a must skill for future career.    
+
+### If you could change one thing about the course, what would it be?
+
+Cut down the final percentage and probably add more concept questions other than the HackerRank coding.
+
+-----------------------------------------------------
 
 ## WEEK-TWELVE
 
